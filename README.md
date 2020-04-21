@@ -13,5 +13,10 @@ Dicee Game build in CSS with the help of JavaScript.
  <p align="center">
   <img src="https://media.giphy.com/media/mECz9h2QNjrWCZqi93/source.gif">
 </p>
+
+
+### Mobile version:
+
+![Imgur](https://i.imgur.com/BA9yIUd.png?1)
  
 
